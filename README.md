@@ -1,0 +1,2 @@
+# Algorithms
+Fast resolution algorithms 
